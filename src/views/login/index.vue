@@ -10,8 +10,8 @@
       <div class="logo">
         <i class="fa fa-cubes"></i>
       </div>
-      <h1 class="system-title">企业管理系统</h1>
-      <p class="system-subtitle">高效、安全的企业管理解决方案</p>
+      <h1 class="system-title">企业大模型管理系统</h1>
+      <p class="system-subtitle">高效、安全的企业大模型管理解决方案</p>
     </div>
 
     <div class="login-card">
